@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Sahabat Sejati",
+  "base_artist": "Sheila On 7",
+  "createdAt": "2026-03-08T20:00:33.855636Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sahabat Sejati",
+      "artist": "Sheila On 7",
+      "has_synced": false,
+      "path": "select/01_Sahabat_Sejati_Sheila_On_7.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sahabat Sejati (From \"Filosofi Kopi 2: Ben & Jody\")",
+      "artist": "Chicco Jerikho feat. Rio Dewanto",
+      "has_synced": true,
+      "path": "select/02_Sahabat_Sejati_(From__Filosofi_Kopi_2__Ben_&_Jody_)_Chicco_Jerikho_feat._Rio_Dewanto.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sahabat Sejati (From \"Filosofi Kopi 2: Ben & Jody\")",
+      "artist": "Chicco Jerikho, Rio Dewanto",
+      "has_synced": true,
+      "path": "select/03_Sahabat_Sejati_(From__Filosofi_Kopi_2__Ben_&_Jody_)_Chicco_Jerikho,_Rio_Dewanto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sahabat Sejati",
+      "artist": "Soulvibe",
+      "has_synced": true,
+      "path": "select/04_Sahabat_Sejati_Soulvibe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sahabat Sejati (Album Version)",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/05_Sahabat_Sejati_(Album_Version)_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sahabat Sejati (Album Version)",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/06_Sahabat_Sejati_(Album_Version)_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sahabat Sejati",
+      "artist": "Sheila on 7",
+      "has_synced": true,
+      "path": "select/07_Sahabat_Sejati_Sheila_on_7.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sahabat Sejati",
+      "artist": "UNIC",
+      "has_synced": true,
+      "path": "select/08_Sahabat_Sejati_UNIC.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sahabat Sejati",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/09_Sahabat_Sejati_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sahabat Sejati",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/10_Sahabat_Sejati_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sahabat Sejati",
+      "artist": "Lana Nitibaskara",
+      "has_synced": true,
+      "path": "select/11_Sahabat_Sejati_Lana_Nitibaskara.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sahabat Sejati (From \"Filosofi Kopi 2: Ben & Jody\")",
+      "artist": "Chicco Jerikho",
+      "has_synced": true,
+      "path": "select/12_Sahabat_Sejati_(From__Filosofi_Kopi_2__Ben_&_Jody_)_Chicco_Jerikho.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sahabat Sejati",
+      "artist": "Sheila on 7",
+      "has_synced": true,
+      "path": "select/13_Sahabat_Sejati_Sheila_on_7.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sahabat Sejati",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/14_Sahabat_Sejati_Sheila_On_7.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sahabat Sejati (feat. Ghaniya)",
+      "artist": "Opick",
+      "has_synced": true,
+      "path": "select/15_Sahabat_Sejati_(feat._Ghaniya)_Opick.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sahabat Sejati",
+      "artist": "Opick",
+      "has_synced": true,
+      "path": "select/16_Sahabat_Sejati_Opick.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "08 Sahabat Sejati",
+      "artist": "Sheila On 7",
+      "has_synced": true,
+      "path": "select/17_08_Sahabat_Sejati_Sheila_On_7.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sahabat Sejati",
+      "artist": "Sheila On 7",
+      "has_synced": false,
+      "path": "select/pl_01_Sahabat_Sejati_Sheila_On_7.txt"
+    }
+  ]
+}
